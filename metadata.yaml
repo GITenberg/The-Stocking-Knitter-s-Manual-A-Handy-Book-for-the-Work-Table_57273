@@ -1,11 +1,16 @@
 _repo: The-Stocking-Knitter-s-Manual-A-Handy-Book-for-the-Work-Table_57273
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57273-h/images/cover.jpg
 creator:
   author:
     agent_name: Cupples, Mrs. George
     gutenberg_agent_id: '49287'
     url: http://www.gutenberg.org/2009/agents/49287
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57273#The-Stocking-Knitter-s-Manual-A-Handy-Book-for-the-Work-Table
 gutenberg_issued: '2018-06-04'
 gutenberg_type: Text
 identifiers:
